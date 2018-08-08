@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugin id="org.dita.pdf2.topic.numbering">
     <require plugin="org.dita.pdf2"/>
-    <require plugin="org.dita-ot.html"/>
     
     <feature extension="package.version" value="0.1"/>
     
