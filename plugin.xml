@@ -6,8 +6,7 @@
     <feature extension="dita.conductor.pdf2.param" file="pdf2ExtensionParameters.xml"/>
     <feature extension="dita.xsl.xslfo" value="customization.xsl" type="file"/>
    
-     <require plugin="org.dita.dita13base.html"/>
-     <feature extension="dita.xsl.xhtml" value="customization.xsl" type="file"/>  
+    <feature extension="dita.xsl.xhtml" value="customization.xsl" type="file"/>  
     
      <transtype name="pdf" desc="PDF">
         <param name="numbers-before-title"
